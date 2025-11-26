@@ -1,4 +1,4 @@
-# Scraper API
+# Simple Amazon Scraper API
 
 Simple API for scraping websites using Selenium and BeautifulSoup.
 
