@@ -1,0 +1,6 @@
+class Config:
+    CHROME_DEBUG_PORT = 9222
+    API_HOST = '0.0.0.0'
+    API_PORT = 5000
+    SELENIUM_TIMEOUT = 30
+    PAGE_LOAD_DELAY = 5
