@@ -2,6 +2,8 @@
 
 Simple API for scraping websites using Selenium and BeautifulSoup.
 
+Here is full tutorial -> [Build an Amazon Scraper Using Your Chrome Profile](https://letsscrape.com/blog/how-to/build-an-amazon-scraper-using-your-chrome-profile)
+
 ## Installation
 
 ```bash
